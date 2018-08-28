@@ -1,0 +1,25 @@
+html,body{
+    height: 100%;
+}
+body{
+    background: url("coffee-cup-theme-coffee-80431.jpeg");
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: whitesmoke;
+    font-family: 'lobster two',cursive;
+    text-shadow: 2px 2px 4px #000000;
+    overflow: hidden;
+}
+h4{
+    font-size: x-large;
+    font-family: 'Dancing Script', cursive;
+}
+img{
+    padding: 0 0 0 0 px;
+    margin: 60px 0 0 0;
+}
+
+    
+
